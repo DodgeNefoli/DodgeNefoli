@@ -9,29 +9,29 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔐 Focused on **Penetration Testing & Vulnerability Research**
-- 🧠 Learning **Reverse Engineering & Exploit Development**
-- ⚙️ Building tools and platforms related to **security & automation**
-- 📝 Writing technical writeups at: **sushantbhusal.com.np**
-- 💡 Strong interest in understanding systems at a **low level**
+- Focused on **Penetration Testing & Vulnerability Research**
+- Learning **Reverse Engineering & Exploit Development**
+- Building tools and platforms related to **security & automation**
+- Writing technical writeups at: **sushantbhusal.com.np**
+- Strong interest in understanding systems at a **low level**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming
+### Programming
 - Python (Automation, Scripting)
 - Fast api
 - C / C++ (Low-level understanding, memory concepts)
 
-### 🔐 Security
+### Security
 - Web Application Testing
 - Enumeration & Exploitation
 - CTF Problem Solving (Hack The Box, etc.)
 
-### 🧰 Tools & Tech
+### Tools & Tech
 - Linux (Daily driver)
 - Burp Suite, Nmap, Wireshark
 - Git & GitHub
@@ -39,15 +39,15 @@
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
-- 🔍 Deep diving into **Reverse Engineering**
-- 🧩 Solving advanced **CTFs & real-world scenarios**
-- 🏗️ Building a **Pentesting Platform (Web-based)**
+- Deep diving into **Reverse Engineering**
+- Solving advanced **CTFs & real-world scenarios**
+- Building a **Pentesting Platform (Web-based)**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/@dnefoli" target="blank">
